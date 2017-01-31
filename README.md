@@ -1,4 +1,4 @@
 # hello-world
 
-*I am startving and need to eat something.*
+*I am starving and need to eat something.*
 > MingLee
